@@ -1,26 +1,23 @@
-###
-
 <h4 align="center">
   
 **`🧑🏻‍💻 DESENVOLVEDOR JÚNIOR`**
 
 </h4>
 
-###
-
 <p align="center">
   
-👋🏻 Olá, me chamo EduBR Dev, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
-<br>🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.
-<br>✨ Transformando idéias em linhas de códigos.
-<br>📖 Comprometido com o aprendizado contínuo, dedicando-me a estudar novas tecnologias.
-<br>💡 Encarando os desafios complexos com raciocínio lógico e persistência até encontrar a melhor solução.
+  <br>
+  👋🏻 Olá, me chamo EduBR Dev, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
+  <br>
+  🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.
+  <br>
+  ✨ Transformando idéias em linhas de códigos.
+  <br>
+  📖 Comprometido com o aprendizado contínuo, dedicando-me a estudar novas tecnologias.
+  <br>
+  💡 Encarando os desafios complexos com raciocínio lógico e persistência até encontrar a melhor solução.
 
 </p>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://youtube.com/@edubrdev" target="_blank">
