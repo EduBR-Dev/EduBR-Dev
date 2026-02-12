@@ -1,14 +1,22 @@
-<h6 align="center"></h6>
+###
+
+<h4 align="center">
+  
+**`🧑🏻‍💻 DESENVOLVEDOR JÚNIOR`**
+
+</h4>
 
 ###
 
-<h2 align="center">🧑🏻‍💻 EDUBR DEV</h2>
+<p align="center">
+  
+👋🏻 Olá, me chamo EduBR Dev, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
+<br>🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.
+<br>✨ Transformando idéias em linhas de códigos.
+<br>📖 Comprometido com o aprendizado contínuo, dedicando-me a estudar novas tecnologias.
+<br>💡 Encarando os desafios complexos com raciocínio lógico e persistência até encontrar a melhor solução.
 
-###
-
-<br clear="both">
-
-<p align="center">👋🏻 Olá, me chamo EduBR Dev, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.<br>🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.<br>✨ Transformando idéias em linhas de códigos.<br>📖 Comprometido com o aprendizado contínuo, dedicando-me a estudar novas tecnologias.<br>💡 Encarando os desafios complexos com raciocínio lógico e persistência até encontrar a melhor solução.</p>
+</p>
 
 ###
 
@@ -50,6 +58,13 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EduBR-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EduBR-Dev&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="200" alt="languages graph"  />
+  
 </div>
 
-###
+<picture align="center">
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake.svg">
+  
+</picture>
