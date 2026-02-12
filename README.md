@@ -1,20 +1,20 @@
-<h4 align="center">
+<h4 align="center"
   
 **`🧑🏻‍💻 DESENVOLVEDOR JÚNIOR`**
 
-</h4>
-
+ </h4>
+ 
 <p align="center">
   
-  <br>
+<br>
   👋🏻 Olá, me chamo EduBR Dev, sou um Desenvolvedor Júnior, iniciando minha trajetória neste vasto universo da programação.
-  <br>
+<br>
   🎯 Focado em identificar problemas e em estruturar soluções que sejam claras e eficientes.
-  <br>
+<br>
   ✨ Transformando idéias em linhas de códigos.
-  <br>
+<br>
   📖 Comprometido com o aprendizado contínuo, dedicando-me a estudar novas tecnologias.
-  <br>
+<br>
   💡 Encarando os desafios complexos com raciocínio lógico e persistência até encontrar a melhor solução.
 
 </p>
@@ -59,9 +59,7 @@
 </div>
 
 <picture align="center">
-  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake.svg">
-  
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EduBR-Dev/EduBR-Dev/output/github-contribution-grid-snake.svg">  
 </picture>
